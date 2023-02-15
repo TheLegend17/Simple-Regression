@@ -1,0 +1,15 @@
+D:\IS\SimpleRegression\SimpleRegression\bin\Debug\net6.0\SimpleRegression.exe
+D:\IS\SimpleRegression\SimpleRegression\bin\Debug\net6.0\SimpleRegression.deps.json
+D:\IS\SimpleRegression\SimpleRegression\bin\Debug\net6.0\SimpleRegression.runtimeconfig.json
+D:\IS\SimpleRegression\SimpleRegression\bin\Debug\net6.0\SimpleRegression.dll
+D:\IS\SimpleRegression\SimpleRegression\bin\Debug\net6.0\SimpleRegression.pdb
+D:\IS\SimpleRegression\SimpleRegression\obj\Debug\net6.0\SimpleRegression.csproj.AssemblyReference.cache
+D:\IS\SimpleRegression\SimpleRegression\obj\Debug\net6.0\SimpleRegression.GeneratedMSBuildEditorConfig.editorconfig
+D:\IS\SimpleRegression\SimpleRegression\obj\Debug\net6.0\SimpleRegression.AssemblyInfoInputs.cache
+D:\IS\SimpleRegression\SimpleRegression\obj\Debug\net6.0\SimpleRegression.AssemblyInfo.cs
+D:\IS\SimpleRegression\SimpleRegression\obj\Debug\net6.0\SimpleRegression.csproj.CoreCompileInputs.cache
+D:\IS\SimpleRegression\SimpleRegression\obj\Debug\net6.0\SimpleRegression.dll
+D:\IS\SimpleRegression\SimpleRegression\obj\Debug\net6.0\refint\SimpleRegression.dll
+D:\IS\SimpleRegression\SimpleRegression\obj\Debug\net6.0\SimpleRegression.pdb
+D:\IS\SimpleRegression\SimpleRegression\obj\Debug\net6.0\SimpleRegression.genruntimeconfig.cache
+D:\IS\SimpleRegression\SimpleRegression\obj\Debug\net6.0\ref\SimpleRegression.dll
